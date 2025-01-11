@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camaleao\\Documents\\GitHub\\Pagamento BitCoin\\PagamentoBitCoin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87C3D6B0-E0B3-455E-8349-BCA6CF03AC1C}|PagamentoBitCoin.csproj|c:\\users\\camaleao\\documents\\github\\pagamento bitcoin\\pagamentobitcoin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C3D6B0-E0B3-455E-8349-BCA6CF03AC1C}|PagamentoBitCoin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C3D6B0-E0B3-455E-8349-BCA6CF03AC1C}|PagamentoBitCoin.csproj|c:\\users\\camaleao\\documents\\github\\pagamento bitcoin\\pagamentobitcoin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87C3D6B0-E0B3-455E-8349-BCA6CF03AC1C}|PagamentoBitCoin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C3D6B0-E0B3-455E-8349-BCA6CF03AC1C}|PagamentoBitCoin.csproj|c:\\users\\camaleao\\documents\\github\\pagamento bitcoin\\pagamentobitcoin\\blockcypherbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C3D6B0-E0B3-455E-8349-BCA6CF03AC1C}|PagamentoBitCoin.csproj|solutionrelative:blockcypherbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C3D6B0-E0B3-455E-8349-BCA6CF03AC1C}|PagamentoBitCoin.csproj|c:\\users\\camaleao\\documents\\github\\pagamento bitcoin\\pagamentobitcoin\\cotacaobitcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C3D6B0-E0B3-455E-8349-BCA6CF03AC1C}|PagamentoBitCoin.csproj|solutionrelative:cotacaobitcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C3D6B0-E0B3-455E-8349-BCA6CF03AC1C}|PagamentoBitCoin.csproj|c:\\users\\camaleao\\documents\\github\\pagamento bitcoin\\pagamentobitcoin\\bitcoindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C3D6B0-E0B3-455E-8349-BCA6CF03AC1C}|PagamentoBitCoin.csproj|solutionrelative:bitcoindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BitcoinData.cs",
+              "DocumentMoniker": "C:\\Users\\camaleao\\Documents\\GitHub\\Pagamento BitCoin\\PagamentoBitCoin\\BitcoinData.cs",
+              "RelativeDocumentMoniker": "BitcoinData.cs",
+              "ToolTip": "C:\\Users\\camaleao\\Documents\\GitHub\\Pagamento BitCoin\\PagamentoBitCoin\\BitcoinData.cs",
+              "RelativeToolTip": "BitcoinData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:59:25.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CotacaoBitcoin.cs",
+              "DocumentMoniker": "C:\\Users\\camaleao\\Documents\\GitHub\\Pagamento BitCoin\\PagamentoBitCoin\\CotacaoBitcoin.cs",
+              "RelativeDocumentMoniker": "CotacaoBitcoin.cs",
+              "ToolTip": "C:\\Users\\camaleao\\Documents\\GitHub\\Pagamento BitCoin\\PagamentoBitCoin\\CotacaoBitcoin.cs",
+              "RelativeToolTip": "CotacaoBitcoin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:59:04.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlockcypherBalance.cs",
+              "DocumentMoniker": "C:\\Users\\camaleao\\Documents\\GitHub\\Pagamento BitCoin\\PagamentoBitCoin\\BlockcypherBalance.cs",
+              "RelativeDocumentMoniker": "BlockcypherBalance.cs",
+              "ToolTip": "C:\\Users\\camaleao\\Documents\\GitHub\\Pagamento BitCoin\\PagamentoBitCoin\\BlockcypherBalance.cs",
+              "RelativeToolTip": "BlockcypherBalance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:56:39.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\camaleao\\Documents\\GitHub\\Pagamento BitCoin\\PagamentoBitCoin\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\camaleao\\Documents\\GitHub\\Pagamento BitCoin\\PagamentoBitCoin\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAnwC8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:45:50.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\camaleao\\Documents\\GitHub\\Pagamento BitCoin\\PagamentoBitCoin\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\camaleao\\Documents\\GitHub\\Pagamento BitCoin\\PagamentoBitCoin\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:45:23.899Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\bin\Debug\PagamentoBitCoin.exe.config
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\bin\Debug\PagamentoBitCoin.exe
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\bin\Debug\PagamentoBitCoin.pdb
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\bin\Debug\QRCoder.dll
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\obj\Debug\PagamentoBitCoin.csproj.AssemblyReference.cache
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\obj\Debug\PagamentoBitCoin.Form1.resources
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\obj\Debug\PagamentoBitCoin.Properties.Resources.resources
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\obj\Debug\PagamentoBitCoin.csproj.GenerateResource.cache
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\obj\Debug\PagamentoBitCoin.csproj.CoreCompileInputs.cache
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\obj\Debug\Pagament.36883BC9.Up2Date
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\obj\Debug\PagamentoBitCoin.exe
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\obj\Debug\PagamentoBitCoin.pdb
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\camaleao\Documents\GitHub\Pagamento BitCoin\PagamentoBitCoin\bin\Debug\Newtonsoft.Json.xml
